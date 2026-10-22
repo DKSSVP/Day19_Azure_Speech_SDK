@@ -1,0 +1,1 @@
+Hello, this is a speech transcription test for day 19. We are using the Grok API and the Whisper speech recognition model.

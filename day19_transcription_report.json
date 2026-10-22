@@ -1,0 +1,6 @@
+{
+    "audio_file": "test_audio.wav",
+    "model": "whisper-large-v3-turbo",
+    "status": "success",
+    "transcription": "Hello, this is a speech transcription test for day 19. We are using the Grok API and the Whisper speech recognition model."
+}
